@@ -1,0 +1,16 @@
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\bin\Debug\netcoreapp3.1\WinFormsApp_Calculator.exe
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\bin\Debug\netcoreapp3.1\WinFormsApp_Calculator.deps.json
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\bin\Debug\netcoreapp3.1\WinFormsApp_Calculator.runtimeconfig.json
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\bin\Debug\netcoreapp3.1\WinFormsApp_Calculator.runtimeconfig.dev.json
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\bin\Debug\netcoreapp3.1\WinFormsApp_Calculator.dll
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\bin\Debug\netcoreapp3.1\WinFormsApp_Calculator.pdb
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.csprojAssemblyReference.cache
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.Form1.resources
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.csproj.GenerateResource.cache
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.AssemblyInfoInputs.cache
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.AssemblyInfo.cs
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.csproj.CoreCompileInputs.cache
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.dll
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.pdb
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.genruntimeconfig.cache
+D:\C#Projects\WinFormsApp_Calculator\WinFormsApp_Calculator\obj\Debug\netcoreapp3.1\WinFormsApp_Calculator.Properties.Resources.resources

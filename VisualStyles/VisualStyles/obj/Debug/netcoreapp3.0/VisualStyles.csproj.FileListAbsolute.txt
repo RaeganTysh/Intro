@@ -1,0 +1,10 @@
+D:\C#Projects\VisualStyles\VisualStyles\bin\Debug\netcoreapp3.0\VisualStyles.deps.json
+D:\C#Projects\VisualStyles\VisualStyles\bin\Debug\netcoreapp3.0\VisualStyles.dll
+D:\C#Projects\VisualStyles\VisualStyles\bin\Debug\netcoreapp3.0\VisualStyles.pdb
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.csprojAssemblyReference.cache
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.csproj.ResolveComReference.cache
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.AssemblyInfoInputs.cache
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.AssemblyInfo.cs
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.csproj.CoreCompileInputs.cache
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.dll
+D:\C#Projects\VisualStyles\VisualStyles\obj\Debug\netcoreapp3.0\VisualStyles.pdb
